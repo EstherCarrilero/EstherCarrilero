@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm Esther Carrilero Polidura, a student in Computer Engineering.
 <!--
 **EstherCarrilero/EstherCarrilero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
